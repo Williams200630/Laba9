@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\ConsoleApp55\ExpressionValidator\obj\Debug\net9.0\ExpressionValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp55\ExpressionValidator\obj\Debug\net9.0\ExpressionValidator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp55\ExpressionValidator\obj\Debug\net9.0\ExpressionValidator.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp55\ExpressionValidator\obj\Debug\net9.0\ExpressionValidator.csproj.CoreCompileInputs.cache
