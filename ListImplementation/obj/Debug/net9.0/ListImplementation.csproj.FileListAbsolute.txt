@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\bin\Debug\net9.0\ListImplementation.deps.json
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\bin\Debug\net9.0\ListImplementation.dll
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\bin\Debug\net9.0\ListImplementation.pdb
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ListImplementation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ListImplementation.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ListImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ListImplementation.dll
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\refint\ListImplementation.dll
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ListImplementation.pdb
+C:\Users\User\source\repos\ConsoleApp55\ListImplementation\obj\Debug\net9.0\ref\ListImplementation.dll

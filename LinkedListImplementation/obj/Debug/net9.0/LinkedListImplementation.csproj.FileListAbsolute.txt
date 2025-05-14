@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\bin\Debug\net9.0\LinkedListImplementation.deps.json
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\bin\Debug\net9.0\LinkedListImplementation.dll
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\bin\Debug\net9.0\LinkedListImplementation.pdb
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\LinkedListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\LinkedListImplementation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\LinkedListImplementation.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\LinkedListImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\LinkedListImplementation.dll
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\refint\LinkedListImplementation.dll
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\LinkedListImplementation.pdb
+C:\Users\User\source\repos\ConsoleApp55\LinkedListImplementation\obj\Debug\net9.0\ref\LinkedListImplementation.dll
